@@ -6,7 +6,9 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 def Bar():
     print(f'Текущая дата: {datetime.now()}')
+    print('Внесли не большие изменения что бы загнать их к себе на комп')
 
+Bar()
 
 if __name__ == '__main__':
     print_hi('PyCharm')
