@@ -7,7 +7,6 @@ def print_hi(name):
 def Bar():
     print(f'Текущая дата: {datetime.now()}')
 
-Bar()
 
 if __name__ == '__main__':
     print_hi('PyCharm')
